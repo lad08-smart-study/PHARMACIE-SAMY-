@@ -4,8 +4,8 @@
 
 const CONFIG = {
     // Supabase Configuration - REPLACE THESE VALUES
-    SUPABASE_URL: 'https://your-project.supabase.co',
-    SUPABASE_ANON_KEY: 'your-anon-key-here',
+    SUPABASE_URL: 'https://simvsvwgiacszrrpsiuc.supabase.co',
+    SUPABASE_ANON_KEY: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNpbXZzdndnaWFjc3pycnBzaXVjIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzIyNTQzODEsImV4cCI6MjA4NzgzMDM4MX0._kGM85Gg-ye5Am3OFASPm1rDvNVlAEBqTOxzrepnTxY',
     
     // Site Info
     SITE_NAME: 'PHARMACIE SAMY',
